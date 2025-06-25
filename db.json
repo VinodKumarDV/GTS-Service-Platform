@@ -1,0 +1,463 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "name": "Hart, Cooper and Mcfarland",
+        "industry": "Healthcare",
+        "location": "Florida",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-02-04",
+        "is_active": false
+      },
+      {
+        "id": 2,
+        "name": "Rodriguez, Strickland and Ramirez",
+        "industry": "Education",
+        "location": "Texas",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-04-15",
+        "is_active": false
+      },
+      {
+        "id": 3,
+        "name": "Webb, Hicks and Nicholson",
+        "industry": "Retail",
+        "location": "Texas",
+        "subscription_tier": "Premium",
+        "signup_date": "2023-11-06",
+        "is_active": false
+      },
+      {
+        "id": 4,
+        "name": "Morales, Walker and Lynch",
+        "industry": "Finance",
+        "location": "Illinois",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2024-04-11",
+        "is_active": true
+      },
+      {
+        "id": 5,
+        "name": "Reed LLC",
+        "industry": "Education",
+        "location": "New York",
+        "subscription_tier": "Standard",
+        "signup_date": "2024-05-14",
+        "is_active": false
+      },
+      {
+        "id": 6,
+        "name": "Moore, Shaw and Wolfe",
+        "industry": "Retail",
+        "location": "Florida",
+        "subscription_tier": "Premium",
+        "signup_date": "2024-10-12",
+        "is_active": false
+      },
+      {
+        "id": 7,
+        "name": "Cummings-Douglas",
+        "industry": "Retail",
+        "location": "Florida",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-03-23",
+        "is_active": true
+      },
+      {
+        "id": 8,
+        "name": "Mayo, Rowland and Johnson",
+        "industry": "Finance",
+        "location": "California",
+        "subscription_tier": "Standard",
+        "signup_date": "2024-12-17",
+        "is_active": false
+      },
+      {
+        "id": 9,
+        "name": "Williams, Barrett and Henderson",
+        "industry": "Retail",
+        "location": "Florida",
+        "subscription_tier": "Free",
+        "signup_date": "2023-08-29",
+        "is_active": false
+      },
+      {
+        "id": 10,
+        "name": "Mcknight-Whitehead",
+        "industry": "Agriculture",
+        "location": "Illinois",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2024-02-25",
+        "is_active": true
+      },
+      {
+        "id": 11,
+        "name": "Freeman, Suarez and Miller",
+        "industry": "Retail",
+        "location": "Texas",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-09-30",
+        "is_active": true
+      },
+      {
+        "id": 12,
+        "name": "Mercer, Sheppard and Oneal",
+        "industry": "Finance",
+        "location": "New York",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-01-09",
+        "is_active": true
+      },
+      {
+        "id": 13,
+        "name": "Harris, Wilson and James",
+        "industry": "Finance",
+        "location": "California",
+        "subscription_tier": "Basic",
+        "signup_date": "2025-04-16",
+        "is_active": false
+      },
+      {
+        "id": 14,
+        "name": "Ramirez-Sanchez",
+        "industry": "Finance",
+        "location": "Florida",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-06-30",
+        "is_active": true
+      },
+      {
+        "id": 15,
+        "name": "Nixon-Mason",
+        "industry": "Agriculture",
+        "location": "Texas",
+        "subscription_tier": "Standard",
+        "signup_date": "2025-02-23",
+        "is_active": false
+      },
+      {
+        "id": 16,
+        "name": "Stevenson Group",
+        "industry": "IT",
+        "location": "Washington",
+        "subscription_tier": "Standard",
+        "signup_date": "2025-04-25",
+        "is_active": true
+      },
+      {
+        "id": 17,
+        "name": "Ali-Burke",
+        "industry": "IT",
+        "location": "Florida",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-05-28",
+        "is_active": true
+      },
+      {
+        "id": 18,
+        "name": "Jones, Lopez and Ramirez",
+        "industry": "Education",
+        "location": "New York",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-10-29",
+        "is_active": false
+      },
+      {
+        "id": 19,
+        "name": "Hall-Hull",
+        "industry": "Agriculture",
+        "location": "New York",
+        "subscription_tier": "Free",
+        "signup_date": "2024-06-21",
+        "is_active": false
+      },
+      {
+        "id": 20,
+        "name": "Noble-Benson",
+        "industry": "Agriculture",
+        "location": "Illinois",
+        "subscription_tier": "Basic",
+        "signup_date": "2025-01-21",
+        "is_active": true
+      },
+      {
+        "id": 21,
+        "name": "Soto, Kelly and Ellis",
+        "industry": "IT",
+        "location": "Texas",
+        "subscription_tier": "Premium",
+        "signup_date": "2023-07-04",
+        "is_active": true
+      },
+      {
+        "id": 22,
+        "name": "Obrien-Marshall",
+        "industry": "Education",
+        "location": "Illinois",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2024-05-06",
+        "is_active": false
+      },
+      {
+        "id": 23,
+        "name": "Booth PLC",
+        "industry": "Healthcare",
+        "location": "New York",
+        "subscription_tier": "Free",
+        "signup_date": "2023-09-14",
+        "is_active": true
+      },
+      {
+        "id": 24,
+        "name": "Jensen, Zavala and Smith",
+        "industry": "Finance",
+        "location": "Florida",
+        "subscription_tier": "Premium",
+        "signup_date": "2024-02-23",
+        "is_active": true
+      },
+      {
+        "id": 25,
+        "name": "Cook LLC",
+        "industry": "Agriculture",
+        "location": "Washington",
+        "subscription_tier": "Free",
+        "signup_date": "2025-05-05",
+        "is_active": false
+      },
+      {
+        "id": 26,
+        "name": "Mccann, Flowers and Stout",
+        "industry": "Agriculture",
+        "location": "Illinois",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2024-10-15",
+        "is_active": false
+      },
+      {
+        "id": 27,
+        "name": "Fernandez, Sherman and Cruz",
+        "industry": "Retail",
+        "location": "New York",
+        "subscription_tier": "Premium",
+        "signup_date": "2024-12-21",
+        "is_active": true
+      },
+      {
+        "id": 28,
+        "name": "Gibson Group",
+        "industry": "Healthcare",
+        "location": "Florida",
+        "subscription_tier": "Basic",
+        "signup_date": "2024-05-21",
+        "is_active": false
+      },
+      {
+        "id": 29,
+        "name": "Flores, Garcia and Edwards",
+        "industry": "Agriculture",
+        "location": "Illinois",
+        "subscription_tier": "Free",
+        "signup_date": "2024-01-23",
+        "is_active": true
+      },
+      {
+        "id": 30,
+        "name": "Sanchez, Perez and Rodriguez",
+        "industry": "IT",
+        "location": "Washington",
+        "subscription_tier": "Basic",
+        "signup_date": "2024-11-07",
+        "is_active": false
+      },
+      {
+        "id": 31,
+        "name": "Henry-English",
+        "industry": "Education",
+        "location": "California",
+        "subscription_tier": "Free",
+        "signup_date": "2024-06-24",
+        "is_active": true
+      },
+      {
+        "id": 32,
+        "name": "Patrick LLC",
+        "industry": "Education",
+        "location": "California",
+        "subscription_tier": "Premium",
+        "signup_date": "2025-03-25",
+        "is_active": false
+      },
+      {
+        "id": 33,
+        "name": "Campbell Ltd",
+        "industry": "Agriculture",
+        "location": "Texas",
+        "subscription_tier": "Free",
+        "signup_date": "2023-08-10",
+        "is_active": false
+      },
+      {
+        "id": 34,
+        "name": "Willis, Wilcox and Castillo",
+        "industry": "Education",
+        "location": "Texas",
+        "subscription_tier": "Free",
+        "signup_date": "2024-06-02",
+        "is_active": true
+      },
+      {
+        "id": 35,
+        "name": "Harris, Roberts and Clark",
+        "industry": "IT",
+        "location": "California",
+        "subscription_tier": "Standard",
+        "signup_date": "2024-05-10",
+        "is_active": false
+      },
+      {
+        "id": 36,
+        "name": "Scott Group",
+        "industry": "Healthcare",
+        "location": "Texas",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2023-08-05",
+        "is_active": false
+      },
+      {
+        "id": 37,
+        "name": "Gregory-Guerra",
+        "industry": "Healthcare",
+        "location": "Washington",
+        "subscription_tier": "Standard",
+        "signup_date": "2025-01-18",
+        "is_active": false
+      },
+      {
+        "id": 38,
+        "name": "Medina PLC",
+        "industry": "Retail",
+        "location": "New York",
+        "subscription_tier": "Standard",
+        "signup_date": "2024-07-27",
+        "is_active": false
+      },
+      {
+        "id": 39,
+        "name": "Carter, Wall and Williams",
+        "industry": "Healthcare",
+        "location": "Texas",
+        "subscription_tier": "Premium",
+        "signup_date": "2023-06-30",
+        "is_active": true
+      },
+      {
+        "id": 40,
+        "name": "Manning, Duncan and Vaughn",
+        "industry": "Education",
+        "location": "Florida",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-09-20",
+        "is_active": false
+      },
+      {
+        "id": 41,
+        "name": "Bruce Inc",
+        "industry": "Healthcare",
+        "location": "Texas",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2025-03-18",
+        "is_active": false
+      },
+      {
+        "id": 42,
+        "name": "Cox, Jensen and Leonard",
+        "industry": "Healthcare",
+        "location": "Washington",
+        "subscription_tier": "Standard",
+        "signup_date": "2025-06-13",
+        "is_active": false
+      },
+      {
+        "id": 43,
+        "name": "Walls, Wilson and Merritt",
+        "industry": "Finance",
+        "location": "California",
+        "subscription_tier": "Standard",
+        "signup_date": "2025-02-07",
+        "is_active": false
+      },
+      {
+        "id": 44,
+        "name": "Harris LLC",
+        "industry": "Finance",
+        "location": "Illinois",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-10-10",
+        "is_active": false
+      },
+      {
+        "id": 45,
+        "name": "Miller Ltd",
+        "industry": "IT",
+        "location": "Texas",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-12-31",
+        "is_active": true
+      },
+      {
+        "id": 46,
+        "name": "Marquez PLC",
+        "industry": "Education",
+        "location": "New York",
+        "subscription_tier": "Premium",
+        "signup_date": "2024-06-21",
+        "is_active": false
+      },
+      {
+        "id": 47,
+        "name": "Molina LLC",
+        "industry": "Agriculture",
+        "location": "Florida",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2023-10-11",
+        "is_active": true
+      },
+      {
+        "id": 48,
+        "name": "Smith, May and Newman",
+        "industry": "Healthcare",
+        "location": "Illinois",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2024-07-22",
+        "is_active": false
+      },
+      {
+        "id": 49,
+        "name": "Moss-Huffman",
+        "industry": "Finance",
+        "location": "Florida",
+        "subscription_tier": "Enterprise",
+        "signup_date": "2025-02-07",
+        "is_active": true
+      },
+      {
+        "id": 50,
+        "name": "Ross Inc",
+        "industry": "Finance",
+        "location": "Illinois",
+        "subscription_tier": "Free",
+        "signup_date": "2023-12-26",
+        "is_active": true
+      },
+      {
+        "id": 51,
+        "name": "Evans-Martinez",
+        "industry": "Retail",
+        "location": "Washington",
+        "subscription_tier": "Standard",
+        "signup_date": "2023-11-29",
+        "is_active": false
+      }
+    ]
+  }
