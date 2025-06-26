@@ -16,7 +16,7 @@ export default function ClientStats() {
   /* fetch mock-API data */
   useEffect(() => {
     axios
-      .get("http://localhost:5000/clients")
+      .get("https://gts-service-platform-backend.onrender.com/clients")
       .then((r) => {
         setClients(r.data);
         setLoading(false);
