@@ -16,7 +16,7 @@ export default function ClientStats() {
   /* fetch mock-API data */
   useEffect(() => {
     axios
-      .get("https://gts-service-platform-back-gojq2ro32-vinodkumardvs-projects.vercel.app/clients")
+      .get("https://gts-service-platform-back-end.vercel.app/clients")
       .then((r) => {
         setClients(r.data);
         setLoading(false);
